@@ -1,6 +1,6 @@
 connection: "bigquery_dev"
 
-# include all the viewsa
+# include all the viewsaa
 include: "/views/**/*.view.lkml"
 
 datagroup: ModeloConAmbientes_default_datagroup {
