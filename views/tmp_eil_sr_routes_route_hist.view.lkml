@@ -1,5 +1,5 @@
 view: tmp_eil_sr_routes_route_hist {
-  sql_table_name: `mus_pro_dwh_tables_ods.TMP_EIL_SR_ROUTES_ROUTE_HIST` ;;
+  sql_table_name: `mus_pro_dwh_tables_ods.TMP_EIL_SR_ROUTES_ROUTE_HIST` ;; #Hola
   drill_fields: [plan_id]
 
   dimension: plan_id {
